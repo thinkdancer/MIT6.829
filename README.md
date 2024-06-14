@@ -1,7 +1,8 @@
 # 简介
 
 6.829是MIT的计算机网络课程。
-课程地址：https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/
+
+课程地址：https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002
 
 ***
 
